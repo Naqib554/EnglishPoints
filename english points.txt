@@ -38,7 +38,7 @@ the first sentence include intransitvie verb and the second sentence contains pr
 
 transitive verb:the sentence which sense completed without the object.
 for instence:he sleeps
-intransitive verb:the sentence which sense doesn't completed withoud the object.
+intransitive verb:the sentence which sense doesn't completed without the object.
  
 
 
