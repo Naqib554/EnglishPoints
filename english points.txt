@@ -17,7 +17,37 @@ Example: "She said she might attend the party if she finishes her work on time.
 Example 1 (asking for permission): "May I borrow your pen, please?"
 Example 2 (granting permission): "You may use the computer after finishing your homework.
 
+example_3:it may rain later this afternoon.    50% posibility
+this example show the future posibility.   
 
+example_4:you might go to the city.           30% posibility
+this also show the future less posibility.
+
+expressing wishes:
+example_5: May the new year bring you joy and success.
+
+polite request:
+example_6:May I offer you a cup of tea?
+
+past posibility:
+example_7:She said she might come to the meeting.
+
+1)he may come. show 50% posibility of future.
+2)he might come.show 30% posibility of future.
+3)he must come. it is confirmation case.100% posibility
+
+
+present continous tense predicting:
+1)don't call him, he may be sleeping.more posibility
+2)don't call him, he might be sleeping.less posibility
+3)don't call him, he must be sleeping.confirmation
+
+use cases of might in past:
+1)She said she might come to the party, but she didn't show up.
+2)We thought it might rain yesterday, but the weather stayed clear.
+3)He might have forgotten his keys at home.
+
+note:these models verb show the mode of the sentenc.
 
 difference between can,may and might:
 "Can" is for ability, "may" is for permission or possibility, and "might" is actually use for past possibility or less future posibility or  polite  permission.
