@@ -55,7 +55,10 @@ difference between can,may and might:
 
 
 Anyone : when more than two choices given and you choose one of them
-For instance: choose any one of them
+For instance: choose any one of them.
+example:choose any watch.
+if there are many washroom exists then you can say like bellow.
+example:you can use any washroom.
 
 
 Either : if only two choices are given then use the word either .
@@ -79,6 +82,16 @@ example_1:Neither I can sing nor I can dance.
 example_1:i can neither sing or dance.
 example_1:neither i can sing nor dance.
 example_2:neither teacher nor students were in the class.
+example_3: I will neither meet you nor talk to you
+
+
+general discustion about any,either and weather.
+example: do you want me on monday or saturday?
+positive ans:either day is good for me.
+negative and:Neither day is good for me. 
+
+
+
 
 
 
