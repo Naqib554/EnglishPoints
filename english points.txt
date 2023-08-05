@@ -69,7 +69,7 @@ For instance , I am not sure whether to go left or right .
 example_2:either he didn't see me or ignored me.
 example_3:either pay rent or vacate the house.
 example_4:either naqib or jasim is in that room
-example_5: either jasim or you are laying.
+example_5: either jasim or you are telling the truth.
 
 
 
@@ -78,6 +78,8 @@ example_0:Neither this nor that.
 example_1:Neither I can sing nor I can dance.
 example_1:i can neither sing or dance.
 example_1:neither i can sing nor dance.
+example_2:neither teacher nor students were in the class.
+
 
 
 Active voice and Pasive voice points:
