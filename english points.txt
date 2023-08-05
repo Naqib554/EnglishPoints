@@ -63,9 +63,11 @@ And there is no doubt and one of them will be chosen.
 For instance : choose either one of them
 
 
-Weather: when there are doubt in the outcome then use the weather .
+Weather(ya to): when there are doubt in the outcome then use the weather .
 . it is often use for the direct and indirect question.
 For instance , I am not sure whether to go left or right .
+example_2:either he didn't see me or ignored me.
+example_3:either pay rent or vacate the house.
 
 
 
