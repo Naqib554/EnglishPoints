@@ -60,7 +60,7 @@ For instance: choose any one of them
 
 Either : if only two choices are given then use the word either .
 And there is no doubt and one of them will be chosen.
-For instance : choose either one of them
+For instance : choose either one of them.
 
 
 Weather(ya to): when there are doubt in the outcome then use the weather .
@@ -68,8 +68,16 @@ Weather(ya to): when there are doubt in the outcome then use the weather .
 For instance , I am not sure whether to go left or right .
 example_2:either he didn't see me or ignored me.
 example_3:either pay rent or vacate the house.
+example_4:either naqib or jasim is in that room
+example_5: either jasim or you are laying.
 
 
+
+Neither or Nor(na to ya na wo):
+example_0:Neither this nor that.
+example_1:Neither I can sing nor I can dance.
+example_1:i can neither sing or dance.
+example_1:neither i can sing nor dance.
 
 
 Active voice and Pasive voice points:
