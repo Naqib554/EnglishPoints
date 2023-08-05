@@ -64,9 +64,10 @@ example:you can use any washroom.
 Either : if only two choices are given then use the word either .
 And there is no doubt and one of them will be chosen.
 For instance : choose either one of them.
+example:either of us should be with child.
 
 
-Weather(ya to): when there are doubt in the outcome then use the weather .
+Weather(ya to ye ya wo): when there are doubt in the outcome then use the weather .
 . it is often use for the direct and indirect question.
 For instance , I am not sure whether to go left or right .
 example_2:either he didn't see me or ignored me.
@@ -83,12 +84,31 @@ example_1:i can neither sing or dance.
 example_1:neither i can sing nor dance.
 example_2:neither teacher nor students were in the class.
 example_3: I will neither meet you nor talk to you
+example_4:Neither pen is working.
+example_4:Neither of the pens is working.
+example5: is neither of you interested in watching the movie. 
+
 
 
 general discustion about any,either and weather.
 example: do you want me on monday or saturday?
 positive ans:either day is good for me.
 negative and:Neither day is good for me. 
+ Either and Neither use of nagative sentences:(na se na milana kilie)
+I don't love you.
+I don't love you either.
+or 
+Neither do I.
+you didn't call me.
+you didn't call me either.
+or 
+Neither did you.
+
+i can't go party.
+i can't go party either.
+or
+Neither can I.
+
 
 
 
@@ -110,7 +130,7 @@ the first sentence include intransitvie verb and the second sentence contains pr
 transitive verb:the sentence which sense completed without the object.
 for instence:he sleeps
 intransitive verb:the sentence which sense doesn't completed without the object.
- 
+
 
 
 
